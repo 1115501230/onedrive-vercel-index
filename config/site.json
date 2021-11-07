@@ -7,7 +7,7 @@
     "400",
     "600"
   ],
-  "footer": "Powered by <a class=\"hover:underline\" href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
+  "footer": "更多工具 <a class=\"hover:underline\" href=\"https://www.laoyu.space\" target=\"_blank\" rel=\"noopener noreferrer\">工具箱</a>. Made with ❤ by 老御.",
   "protectedRoutes": [
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
